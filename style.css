@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.imgContainer{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btns{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    margin-top: 1rem;
+    width: 100px;
+    height: 30px;
+}
